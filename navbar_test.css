@@ -1,0 +1,59 @@
+.navbar{
+  background-color: purple;
+  height: 45vh;
+}
+
+.navbarlist{
+  list-style-type: none;
+}
+
+body{
+  background-color: black;
+}
+
+.dropdown{
+  width: 16em;
+  height: 12em;
+  background-color: green;
+  padding: 0.5em 0;
+  position: absolute;
+  left: 0%;
+}
+
+.something{
+  width: 15em;
+  height: 11em;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.viewport{
+  height: 10em;
+  width: 14em;
+  background-color: grey;
+  margin: 0 auto;
+}
+
+.slider{
+  height: 9em;
+  width: 13em;
+  background-color: yellow;
+  margin: 0 auto;
+}
+
+.new-placeholder{
+  height: 8em;
+  width: 12em;
+  background-color: blue;
+  margin: 0 auto;
+}
+
+.placeholder-image-link{
+  margin: 0 auto;
+}
+
+.placeholder-image{
+  height: 5.5em;
+  width: auto;
+  margin: 0 auto;
+}
