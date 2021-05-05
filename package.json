@@ -1,6 +1,6 @@
 {
   "name": "droptails",
-  "homepage": ".",
+  "homepage": "https://droptails.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
