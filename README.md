@@ -1,2 +1,3 @@
-# Navbar Asset 001
-Navigation Bar asset for Droptails client
+# Droptails React Site
+
+e-commerce site for drink bombs product client called Droptails.
